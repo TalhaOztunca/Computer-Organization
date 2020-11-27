@@ -37,3 +37,14 @@ Sample output:
 ## Q3) Sorting
 Definition: You are expected to take integer n, then n integer from terminal.
 Then, you sort those number in ascending order. Finally print them all.
+
+Sample input:
+```
+5
+16 8 4 7 5
+```
+
+Sample output
+```
+4 5 7 8 16
+```
